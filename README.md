@@ -8,6 +8,15 @@
 -> 카테고리 별 view 생성<br>
 
 <h6>커피 옵션관리</h6>
+<table>
+  <thead>
+    <th>옵션 이름</th>
+    <th>옵션 번호</th>
+  </thead>
+  <tbody>
+    <td><td>
+  </tbody>
+</table>
 |옵션이름|옵션번호|<br>
 |---|---|<br>
 |유료옵션|01|<br>

@@ -14,7 +14,14 @@
     <th>옵션 번호</th>
   </thead>
   <tbody>
-    <td><td>
+    <tr>
+      <td>유료 옵션</td>
+      <td>01</td>
+    </tr>
+    <tr>
+      <td>무료 옵션</td>
+      <td>02</td>
+    </tr>
   </tbody>
 </table>
 |옵션이름|옵션번호|<br>

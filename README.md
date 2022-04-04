@@ -10,7 +10,7 @@
 <br>
 커피 메뉴 관리<br>
 <br>
-커피의 카테고리 번호(외래키), 메뉴 번호(기본키), 메뉴 이름, 온도(HOT or ICED or Both or Neither)를 관리한다.<br>
+커피의 카테고리 번호(외래키), 메뉴 번호(기본키), 메뉴 이름, 온도(Only HOT or Only ICED or Both or Neither)를 관리한다.<br>
 <br>
 <br>
 <br>

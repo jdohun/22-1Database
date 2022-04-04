@@ -62,3 +62,16 @@
 
 <h6>커피 일일주문관리</h6><br>
 <h6>멤버십 회원관리</h6><br>
+erDiagram
+    CAR ||--o{ NAMED-DRIVER : allows
+    CAR {
+        string registrationNumber
+        string make
+        string model
+    }
+    PERSON ||--o{ NAMED-DRIVER : is
+    PERSON {
+        string firstName
+        string lastName
+        int age
+    }

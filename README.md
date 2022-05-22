@@ -66,4 +66,5 @@
 12.주문은 주문번호로 식별한다.<br>
 13.한 번의 주문에 여러 개의 메뉴를 주문할 수 있다.<br>
 <hr>
+<h4>220513 수정된 ERD</h4>
 <img src="https://user-images.githubusercontent.com/69462861/169690290-35926efd-b454-484f-bde6-996045f75d35.png"></img>

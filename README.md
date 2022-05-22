@@ -54,7 +54,7 @@
 <h4>220513, 수정 1차 : 220522</h4>
 <p>1.카페 멤버십 <span style="border: blue 1px solid;color: #0000FF;">회원</span>
     으로 가입하기 위해서는
-    <span style="color: #0000FF; text-decoration: underline; text-decoration-color: #0000FF;">이름</span>,
+    <span class="phishy">이름</span>,
     <span style="color: #0000FF; text-decoration: underline; text-decoration-color: #0000FF;">핸드폰 번호</span>,
     <span style="color: #0000FF; text-decoration: underline; text-decoration-color: #0000FF;">나이</span>,
     <span style="color: #0000FF; text-decoration: underline; text-decoration-color: #0000FF;">직업</span> 직업 입력해야한다.</p>

@@ -46,7 +46,7 @@
 <h6>멤버십 회원관리</h6><br>
 <hr>
 <hr>
-![image](<img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>)
+<img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>
 <br>
 <hr>
 <br>

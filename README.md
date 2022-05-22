@@ -65,6 +65,25 @@
 <hr>
 <h4>220513, 수정 1차 : 220522</h4>
     
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .individual {
+            border: blue 1px solid;
+            color: #0000FF;
+        }
+
+        .attribute {
+            color: #0000FF;
+            text-decoration: underline;
+            text-decoration-color: #0000FF;
+        }
+    </style>
+</head>
+<body>
     <p>1.카페 멤버십 <span class="individual">회원</span>으로 가입하기 위해서는 <span class="attribute">이름</span>, 핸드폰 번호,나이, 직업 입력해야한다.</p>
     <p>2.멤버십 회원은 핸드폰 번호로 식별한다.</p>
     <p>3.멤버십 회원에게는 적립금이 부여된다.</p>
@@ -78,3 +97,5 @@
     <p>11.주문자 정보는 회원일 경우 핸드폰번호를 외래키로 입력받는다.</p>
     <p>12.주문은 주문번호로 식별한다.</p>
     <p>13.한 번의 주문에 여러 개의 메뉴를 주문할 수 있다.</p>
+</body>
+</html>

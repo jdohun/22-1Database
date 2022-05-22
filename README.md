@@ -66,3 +66,4 @@
 12.주문은 주문번호로 식별한다.<br>
 13.한 번의 주문에 여러 개의 메뉴를 주문할 수 있다.<br>
 <hr>
+<img src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=cafe.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjdohun%2F22-1Database%2Fmain%2Fcafe.drawio"></img>

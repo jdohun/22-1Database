@@ -56,7 +56,7 @@
     으로 가입하기 위해서는
     <span style="color: #0000FF; text-decoration: underline; text-decoration-color: #0000FF;">이름</span>,
     <span style="color: #0000FF; text-decoration: underline; text-decoration-color: #0000FF;">핸드폰 번호</span>,
-    <span style="color: #0000FF; text-decoration: underline; text-decoration-color: #0000FF;">나이</span>,
+    <span style="color: #0000FF; text-decoration: underline; text-decoration-color: #0000FF;">_나이_</span>,
     <span style="color: #0000FF; text-decoration: underline; text-decoration-color: #0000FF;">직업</span> 직업 입력해야한다.</p>
 <p>2.멤버십 회원은 핸드폰 번호로 식별한다.</p>
 <p>3.멤버십 회원에게는 적립금이 부여된다.</p>

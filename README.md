@@ -1,4 +1,16 @@
 양식 수정 : 220522
+<style>
+        .individual {
+            border: blue 1px solid;
+            color: #0000FF;
+        }
+
+        .attribute {
+            color: #0000FF;
+            text-decoration: underline;
+            text-decoration-color: #0000FF;
+        }
+    </style>
 <hr>
 # 22-1Database
 22년 1학기 데이터베이스 프로젝트
@@ -52,18 +64,7 @@
 <hr>
 <hr>
 <h4>220513, 수정 1차 : 220522</h4>
-    <style>
-        .individual {
-            border: blue 1px solid;
-            color: #0000FF;
-        }
-
-        .attribute {
-            color: #0000FF;
-            text-decoration: underline;
-            text-decoration-color: #0000FF;
-        }
-    </style>
+    
     <p>1.카페 멤버십 <span class="individual">회원</span>으로 가입하기 위해서는 <span class="attribute">이름</span>, 핸드폰 번호,나이, 직업 입력해야한다.</p>
     <p>2.멤버십 회원은 핸드폰 번호로 식별한다.</p>
     <p>3.멤버십 회원에게는 적립금이 부여된다.</p>

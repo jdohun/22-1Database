@@ -18,13 +18,12 @@
 <br>
 <h5>멤버십 회원 관리</h5>
 회원번호 , 이름, 전화번호, 포인트 점수를 관리한다.<br>
-<br>
 <hr>
 <hr>
 <h6>커피 메뉴관리</h6>
-<h7>카테고리, 메뉴 이름, 가격, 온도(HOT or ICED or Both or Neither)</h7><br>
--> 카테고리 별 view 생성<br>
-
+<h7>카테고리, 메뉴 이름, 가격, 온도(HOT or ICED or Both or Neither)</h7>
+<br>-> 카테고리 별 view 생성
+<br>
 <h6>커피 옵션관리</h6>
 <table>
   <thead>
@@ -42,14 +41,14 @@
     </tr>
   </tbody>
 </table>
-<h6>커피 일일주문관리</h6><br>
-<h6>멤버십 회원관리</h6><br>
+<h6>커피 일일주문관리</h6>
+<br><h6>멤버십 회원관리</h6>
+<br>
 <hr>
 <hr>
 <img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>
-<br>
 <hr>
-<br>
+<hr>
 <h4>220513</h4>
 <p>1.카페 멤버십을 이용하기 위해서는 이름, 핸드폰 번호를 입력해야한다.</P>
 <p>2.멤버십 회원은 핸드폰 번호로 식별한다.</P>

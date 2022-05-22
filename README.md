@@ -1,16 +1,4 @@
 양식 수정 : 220522
-<style>
-        .individual {
-            border: blue 1px solid;
-            color: #0000FF;
-        }
-
-        .attribute {
-            color: #0000FF;
-            text-decoration: underline;
-            text-decoration-color: #0000FF;
-        }
-    </style>
 <hr>
 # 22-1Database
 22년 1학기 데이터베이스 프로젝트

@@ -73,3 +73,6 @@
 <hr>
 <h4>220513 수정된 ERD</h4>
 <img src="https://user-images.githubusercontent.com/69462861/169690290-35926efd-b454-484f-bde6-996045f75d35.png"></img>
+<hr>
+<h4>물리적 스키마</h4>
+<img src="https://user-images.githubusercontent.com/69462861/169866825-d330c4c8-e6e1-4525-a20b-f3eff577bc75.png"></img>

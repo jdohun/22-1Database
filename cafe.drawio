@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T07:52:19.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="gV_1Ofss9yxDiwl1dJ95" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T07:56:35.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="6ylgPdgIyDZeZyfBfBeX" version="19.0.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VNDyjXSrR8N72qDSLMql-48" value="옵션 번호" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-77.4" y="-331" width="90" height="40" as="geometry" />
+          <mxGeometry x="-74.02000000000001" y="-331" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VNDyjXSrR8N72qDSLMql-49" value="주문날짜" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="15.1" y="-301" width="90" height="40" as="geometry" />
@@ -235,9 +235,9 @@
             <mxPoint x="-90.5" y="-650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPfzWGEt-nVa5YvnVh0--15" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VNDyjXSrR8N72qDSLMql-7" target="VNDyjXSrR8N72qDSLMql-10">
+        <mxCell id="pPfzWGEt-nVa5YvnVh0--15" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VNDyjXSrR8N72qDSLMql-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-403.5" y="-820" as="sourcePoint" />
+            <mxPoint x="-540" y="-870" as="sourcePoint" />
             <mxPoint x="-470.5" y="-830" as="targetPoint" />
           </mxGeometry>
         </mxCell>

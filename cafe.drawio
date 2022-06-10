@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T04:38:05.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="LPqN8oBLmYNLN01dg6Oo" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T05:29:37.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="ZcKWUHc7EoUelI0D6Pez" version="19.0.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -399,7 +399,7 @@
             <mxPoint x="-190" y="-540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uLtGZnAYqpJWhKQmBAT-26" value="온도" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_uLtGZnAYqpJWhKQmBAT-26" value="온도 번호" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="-700" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_uLtGZnAYqpJWhKQmBAT-27" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -597,6 +597,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="65.00500000000011" y="-330" as="sourcePoint" />
             <mxPoint x="65.93499999999995" y="-350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKHSGFsuie3Eki310nX8-11" value="온도" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OKHSGFsuie3Eki310nX8-12" value="온도 번호" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="-460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OKHSGFsuie3Eki310nX8-13" value="온도 이름" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OKHSGFsuie3Eki310nX8-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OKHSGFsuie3Eki310nX8-12" target="OKHSGFsuie3Eki310nX8-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="-520" as="sourcePoint" />
+            <mxPoint x="-70" y="-570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKHSGFsuie3Eki310nX8-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OKHSGFsuie3Eki310nX8-13" target="OKHSGFsuie3Eki310nX8-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="-450" as="sourcePoint" />
+            <mxPoint x="340" y="-490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

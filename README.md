@@ -77,5 +77,6 @@
 <h4>220610 수정된 ERD</h4>
 <img src="https://user-images.githubusercontent.com/69462861/173021686-16839b00-0f11-4fb4-a815-476b52d47c65.jpg"></img>
 <hr>
-<h4>물리적 스키마</h4>
+<h4><del>초기 물리적 스키마</del></h4>
 <img src="https://user-images.githubusercontent.com/69462861/169866825-d330c4c8-e6e1-4525-a20b-f3eff577bc75.png"></img>
+<del>

@@ -47,7 +47,12 @@
 <br><h6>멤버십 회원관리</h6>
 <br>
 <hr>
+<h4><del>초기 ERD</del></h4>
 <!--<img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>-->
+<h4><del>220513 수정된 ERD</del></h4>
+<!--<img src="https://user-images.githubusercontent.com/69462861/169690290-35926efd-b454-484f-bde6-996045f75d35.png"></img>-->
+<h4>220610 수정된 ERD</h4>
+<img src="https://user-images.githubusercontent.com/69462861/173019307-89886d50-415b-4a0e-aa45-941e210d99eb.png"></img>
 <hr>
 <h4>220513, 수정 1차 : 220522</h4>
 1. 카페 멤버십 회원으로 가입하기 위해서는 이름, 핸드폰 번호, 나이, 직업을 입력해야한다.<br>
@@ -69,10 +74,7 @@
 17. 고객(회원, 비회원)은 한 번의 주문에 여러 개의 메뉴를 주문할 수 있다.<br>
 18. 온도는 온도번호, 온도이름을 입력받는다.<br>
 <hr>
-<h4>220513 수정된 ERD</h4>
-<img src="https://user-images.githubusercontent.com/69462861/169690290-35926efd-b454-484f-bde6-996045f75d35.png"></img>
-<h4>220610 수정된 ERD</h4>
-![image](https://user-images.githubusercontent.com/69462861/173019307-89886d50-415b-4a0e-aa45-941e210d99eb.png)
+
 
 <hr>
 <h4>물리적 스키마</h4>

@@ -52,7 +52,7 @@
 <h4><del>220513 수정된 ERD</del></h4>
 <!--<img src="https://user-images.githubusercontent.com/69462861/169690290-35926efd-b454-484f-bde6-996045f75d35.png"></img>-->
 <h4>220610 수정된 ERD</h4>
-<img src="https://user-images.githubusercontent.com/69462861/173019307-89886d50-415b-4a0e-aa45-941e210d99eb.png"></img>
+<img src="https://user-images.githubusercontent.com/69462861/173020914-e0ed19cc-3b59-450d-86f0-af7f823dbf27.png"></img>
 <hr>
 <h4>220513, 수정 1차 : 220522</h4>
 1. 카페 멤버십 회원으로 가입하기 위해서는 이름, 핸드폰 번호, 나이, 직업을 입력해야한다.<br>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T07:49:51.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="J0axXu9hA8I3s5gRfN5R" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T07:50:26.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="knn9dsMNY9SRux704Z1G" version="19.0.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -178,7 +178,7 @@
         <mxCell id="OKHSGFsuie3Eki310nX8-12" value="온도 번호" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-267.4" y="-511" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OKHSGFsuie3Eki310nX8-13" value="온도 이름" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OKHSGFsuie3Eki310nX8-13" value="온도" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-164.02" y="-511" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OKHSGFsuie3Eki310nX8-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="OKHSGFsuie3Eki310nX8-12" target="OKHSGFsuie3Eki310nX8-11" edge="1">

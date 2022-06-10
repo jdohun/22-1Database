@@ -47,7 +47,7 @@
 <br><h6>멤버십 회원관리</h6>
 <br>
 <hr>
-<img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>
+<!--<img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>-->
 <hr>
 <h4>220513, 수정 1차 : 220522</h4>
 1. 카페 멤버십 회원으로 가입하기 위해서는 이름, 핸드폰 번호, 나이, 직업을 입력해야한다.<br>

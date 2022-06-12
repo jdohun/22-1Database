@@ -131,3 +131,7 @@
 <img src="https://user-images.githubusercontent.com/69462861/169866825-d330c4c8-e6e1-4525-a20b-f3eff577bc75.png"></img>
 <h4>220612 물리적 스키마</h4>
 <img src="https://user-images.githubusercontent.com/69462861/173213832-a246a6bd-e9a5-4d78-ac69-eca4aa0e6e8f.png"></img>
+<hr>
+<h4>릴레이션 스키마<h4>
+<img src="https://user-images.githubusercontent.com/69462861/173221964-048e447b-3e9b-4f9a-b5c3-11e63ea2d150.png"></img>
+  

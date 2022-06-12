@@ -124,7 +124,7 @@
 <h4><del>220611 수정된 ERD</del></h4>
 <img src="https://user-images.githubusercontent.com/69462861/173185402-9aedd5bb-66b6-4ef5-a257-373e6a0df64f.png"></img>
 <h4>220612 수정된 ERD</h4>
-<img src="https://user-images.githubusercontent.com/69462861/173209838-314cd133-7d20-4339-a190-55c0a9cc5fb4.png"></img>
+<img src="https://user-images.githubusercontent.com/69462861/173213772-74bb07b8-244c-42ad-ac28-89ef4a1785a4.png"></img>
 <hr>
 <h4><del>초기 물리적 스키마</del></h4>
 <img src="https://user-images.githubusercontent.com/69462861/169866825-d330c4c8-e6e1-4525-a20b-f3eff577bc75.png"></img>

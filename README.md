@@ -125,14 +125,18 @@
 <img src="https://user-images.githubusercontent.com/69462861/173021686-16839b00-0f11-4fb4-a815-476b52d47c65.jpg"></img>
 <h4><del>220611 수정된 ERD</del></h4>
 <img src="https://user-images.githubusercontent.com/69462861/173185402-9aedd5bb-66b6-4ef5-a257-373e6a0df64f.png"></img>
-<h4>220612 수정된 ERD</h4>
+<h4><del>220612-1 수정된 ERD</del></h4>
 <img src="https://user-images.githubusercontent.com/69462861/173213772-74bb07b8-244c-42ad-ac28-89ef4a1785a4.png"></img>
+<h4>220612-2 수정된 ERD</h4>
+<img src="https://user-images.githubusercontent.com/69462861/173231735-c2f970ce-60e1-4b2d-a23d-2f4d60c83dfa.png"></img>
 <hr>
 <h4><del>초기 물리적 스키마</del></h4>
 <img src="https://user-images.githubusercontent.com/69462861/169866825-d330c4c8-e6e1-4525-a20b-f3eff577bc75.png"></img>
-<h4>220612 물리적 스키마</h4>
+<del><h4>220612-1 물리적 스키마</h4></del>
 <img src="https://user-images.githubusercontent.com/69462861/173213832-a246a6bd-e9a5-4d78-ac69-eca4aa0e6e8f.png"></img>
+<h4>220612-2 물리적 스키마</h4>
+<img src=""></img>
 <hr>
 <h4>릴레이션 스키마<h4>
-<img src="https://user-images.githubusercontent.com/69462861/173221964-048e447b-3e9b-4f9a-b5c3-11e63ea2d150.png"></img>
+<img src=""></img>
   

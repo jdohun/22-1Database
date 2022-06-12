@@ -105,5 +105,5 @@
 <hr>
 <h4><del>초기 물리적 스키마</del></h4>
 <img src="https://user-images.githubusercontent.com/69462861/169866825-d330c4c8-e6e1-4525-a20b-f3eff577bc75.png"></img>
-<h4>220611 물리적 스키마</h4>
-<del>
+<h4>220612 물리적 스키마</h4>
+<img src="https://user-images.githubusercontent.com/69462861/173213332-00eae693-1abe-42f1-9147-76162dc69112.png"></img>

@@ -49,8 +49,8 @@
 <br>
 <hr>
 <h4><del>220513, 수정 : 220522</del></h4>
-<div style="visibility:hidden"><del>
-1. 카페 멤버십 회원으로 가입하기 위해서는 이름, 핸드폰 번호, 나이, 직업을 입력해야한다.<br></div>
+<div style="visibility:hidden">test<p>test</p></div><del>
+1. 카페 멤버십 회원으로 가입하기 위해서는 이름, 핸드폰 번호, 나이, 직업을 입력해야한다.<br>
 2. 멤버십 회원은 핸드폰 번호로 식별한다.<br>
 3. 멤버십 회원에게는 적립금이 부여된다.<br>
 4. 메뉴는 카테고리 번호, 메뉴 번호, 이름, 가격, 온도(only iced, only hot, both)를 입력받는다.<br>

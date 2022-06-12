@@ -49,7 +49,7 @@
 <br>
 <hr>
 <h4><del>220513, 수정 : 220522</del></h4>
-<div style="visibility:hidden">test<p>test</p></div><del>
+<div style="display:none">test<p>test</p></div><del>
 1. 카페 멤버십 회원으로 가입하기 위해서는 이름, 핸드폰 번호, 나이, 직업을 입력해야한다.<br>
 2. 멤버십 회원은 핸드폰 번호로 식별한다.<br>
 3. 멤버십 회원에게는 적립금이 부여된다.<br>

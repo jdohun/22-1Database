@@ -154,7 +154,7 @@
 <del><h4>220612-1 물리적 스키마</h4></del>
 <img src="https://user-images.githubusercontent.com/69462861/173213832-a246a6bd-e9a5-4d78-ac69-eca4aa0e6e8f.png"></img>
 <h4>220612-2 물리적 스키마</h4>
-<img src=""></img>
+<img src="https://user-images.githubusercontent.com/69462861/173289515-a9043aa8-1c72-4f2a-bdf0-0b091110d16f.png"></img>
 <hr>
 <h4>릴레이션 스키마<h4>
 <img src=""></img>

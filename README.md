@@ -160,5 +160,6 @@
 <h4>220612-2 물리적 스키마</h4>
 <img src="https://user-images.githubusercontent.com/69462861/173291335-51e33a26-9cb5-4cce-aa3b-91825fbc0cbd.png"></img>
 <hr>
-
+<h4>테이블 정규화</h4>
+<img src="https://user-images.githubusercontent.com/69462861/173292905-4d0c4ed7-f178-469f-8ef0-f0401201584a.png"></img>
   

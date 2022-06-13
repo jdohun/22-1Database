@@ -151,7 +151,7 @@
 <img src="https://user-images.githubusercontent.com/69462861/173291410-20906ecd-e5cf-494b-b7b3-bbfae562cef4.png"></img>
 <hr>
 <h4>릴레이션 스키마<h4>
-<img src="https://user-images.githubusercontent.com/69462861/173291805-eb28ff23-9eb6-4de5-8c59-976cf2e264eb.png"></img>
+<img src="https://user-images.githubusercontent.com/69462861/173305364-5c2b8bb5-1771-4110-801a-5d7f425fbbc0.png"></img>
 <hr>
 <h4><del>초기 물리적 스키마</del></h4>
 <img src="https://user-images.githubusercontent.com/69462861/169866825-d330c4c8-e6e1-4525-a20b-f3eff577bc75.png"></img>

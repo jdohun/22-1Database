@@ -125,16 +125,17 @@
 5. 옵션은 필수 옵션과 선택 옵션으로 나뉘어진다.
 6. 옵션은 옵션 번호, 옵션 이름, 옵션 가격, 필수 여부를 입력 받는다.
 7. 장바구니는 메뉴 번호, 선택된 옵션 정보, 주문 수량, 메뉴별 가격을 입력받는다.
-8. 장바구니에 있는 메뉴를 주문하면 주문 상세에 기록된다.
-9. 주문 상세는 장바구니와 내용이 동일하며 추가로 주문 번호를 입력 받는다.
-10. 주문 상세는 주문 번호, 메뉴 번호, 선택된 옵션 정보로 식별한다
-11. 주문 내역은 주문 번호, 구매자, 주문 날짜, 총 가격을 입력받는다.
-12. 주문 내역은 주문 번호로 식별한다.
-13. 주문자는 회원과 비회원으로 나뉘어진다.
-14. 로그인하지 않고 주문을 하면 주문자 번호는 비회원으로 처리된다.
-15. 회원은 핸드폰 번호, 이름, 생년월일, 나이, 적립금을 입력받는다.
-16. 초기회원의 적립금은 0으로 초기화한다.
-17. 회원은 핸드폰 번호로 식별한다.(회원 로그인에 사용)
+8. 주문을 하지 않은 장바구니는 초기화된다.
+9. 장바구니에 있는 메뉴를 주문하면 주문 상세에 기록된다.
+10. 주문 상세는 장바구니와 내용이 동일하며 추가로 주문 번호를 입력 받는다.
+11. 주문 상세는 주문 번호, 메뉴 번호, 선택된 옵션 정보로 식별한다
+12. 주문 내역은 주문 번호, 구매자, 주문 날짜, 총 가격을 입력받는다.
+13. 주문 내역은 주문 번호로 식별한다.
+14. 주문자는 회원과 비회원으로 나뉘어진다.
+15. 로그인하지 않고 주문을 하면 주문자 번호는 비회원으로 처리된다.
+16. 회원은 핸드폰 번호, 이름, 생년월일, 나이, 적립금을 입력받는다.
+17. 초기회원의 적립금은 0으로 초기화한다.
+18. 회원은 핸드폰 번호로 식별한다.(회원 로그인에 사용)
 <hr>
 <h4><del>초기 ERD</del></h4>
 <img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>
@@ -147,15 +148,17 @@
 <h4><del>220612-1 수정된 ERD</del></h4>
 <img src="https://user-images.githubusercontent.com/69462861/173213772-74bb07b8-244c-42ad-ac28-89ef4a1785a4.png"></img>
 <h4>220612-2 수정된 ERD</h4>
-<img src="https://user-images.githubusercontent.com/69462861/173231735-c2f970ce-60e1-4b2d-a23d-2f4d60c83dfa.png"></img>
+<img src="https://user-images.githubusercontent.com/69462861/173291410-20906ecd-e5cf-494b-b7b3-bbfae562cef4.png"></img>
+<hr>
+<h4>릴레이션 스키마<h4>
+<img src="https://user-images.githubusercontent.com/69462861/173291805-eb28ff23-9eb6-4de5-8c59-976cf2e264eb.png"></img>
 <hr>
 <h4><del>초기 물리적 스키마</del></h4>
 <img src="https://user-images.githubusercontent.com/69462861/169866825-d330c4c8-e6e1-4525-a20b-f3eff577bc75.png"></img>
 <del><h4>220612-1 물리적 스키마</h4></del>
 <img src="https://user-images.githubusercontent.com/69462861/173213832-a246a6bd-e9a5-4d78-ac69-eca4aa0e6e8f.png"></img>
 <h4>220612-2 물리적 스키마</h4>
-<img src="https://user-images.githubusercontent.com/69462861/173289515-a9043aa8-1c72-4f2a-bdf0-0b091110d16f.png"></img>
+<img src="https://user-images.githubusercontent.com/69462861/173291335-51e33a26-9cb5-4cce-aa3b-91825fbc0cbd.png"></img>
 <hr>
-<h4>릴레이션 스키마<h4>
-<img src=""></img>
+
   

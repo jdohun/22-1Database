@@ -1,44 +1,53 @@
-create table 회원 (
-	이름 varchar(8),
-    핸드폰번호 int(11) primary key,
-    나이 int(3),
-    직업 varchar(20),
-    적립금 int(8)
+drop database cafe;
+create database cafe; 
+use cafe;
+
+create table cafeMenus ( /* m : menu*/
+	category varchar(20) not null,
+    mNum int primary key,
+    mName varchar(20) not null,
+	mPrice int not null
 );
 
-create table 카테고리 (
- 카테고리번호 int(3) primary key,
- 카테고리이름 varchar(20)
+create table cafeOptions ( /* op : option */
+	opNum int not null primary key,
+    opName varchar(10) not null,
+    opPrice int not null,
+    required char(1) not null
 );
 
-create table 온도(
-	온도번호 int(1) primary key,
-    온도 varchar(10)
+create table cart ( 
+	mNum int not null,
+    cOptions varchar(40) not null, /* choiced Options */
+    cQuantity int not null, /* cart Quantity */
+    cPrice int not null, /* cart Price */
+    foreign key(mNum) references cafeMenus(mNum),
+    primary key(mNum, cOptions)
 );
 
-create table 메뉴 (
-	카테고리번호 int(3),
-    메뉴번호 int(3) primary key,
-    이름 varchar(20),
-    온도번호 int(1),
-    가격 int(5),
-    foreign key(카테고리번호) references 카테고리(카테고리번호),
-    foreign key(온도번호) references 온도(온도번호)
+create table membership (
+	phoneNumber char(11) primary key,
+	memberName varchar(10) not null,
+    birth char(8) not null,
+    mileage int default 0 not null
 );
 
-create table 옵션(
-  옵션번호 int(3),
-  이름 varchar(20),
-  가격 int(5)
+create table orderHistory(
+	odNum char(11) not null,
+	consumer char(11) not null,
+    totalPrice int not null,
+    odTime timestamp default current_timestamp not null,
+    foreign key(consumer) references membership(phoneNumber),
+    primary key(odNum)
 );
 
-create table 주문기록(
-	주문번호 int(12) primary key,
-    주문자 int(11),
-    메뉴번호 int(3),
-    옵션번호 int(3),
-    주문시각 date default sysdate,
-    foreign key(주문자) references 회원(핸드폰번호),
-    foreign key(메뉴번호) references 메뉴(메뉴번호),
-    foreign key(옵션번호) references 옵션(옵션번호)
+create table orderDetail ( /* od : order */
+	odNum char(11) not null,
+	mNum int not null,
+    cOptions varchar(40) not null,
+    odQuantity int not null,
+    odPrice int not null,
+    foreign key(mNum) references cafeMenus(mNum),
+    foreign key(odNum) references orderHistory(odNum),
+    primary key(odNum, mNum)
 );

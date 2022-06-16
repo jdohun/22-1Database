@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T12:28:37.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="eYCAGxzAjW-zz4X-KXPf" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T12:31:47.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="XgUSs9pIb-38_kXiuf3s" version="20.0.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -158,9 +158,6 @@
         </mxCell>
         <mxCell id="AYfZdi-WlGziGCiwb_5d-25" value="출발시간 정보" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="153" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AYfZdi-WlGziGCiwb_5d-86" value="신용카드 정보" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="403.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

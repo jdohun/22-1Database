@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T11:53:37.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="YOn_VOH3S4t1hQ39v4oj" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T12:02:02.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="IldlWXrqO8ksKJ-juVLM" version="20.0.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AYfZdi-WlGziGCiwb_5d-76" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="5DNHloSlSrVb3Iocgoe0-4" target="AYfZdi-WlGziGCiwb_5d-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="121" as="sourcePoint" />
-            <mxPoint x="195" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AYfZdi-WlGziGCiwb_5d-3" value="회원" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="50" width="80" height="40" as="geometry" />
         </mxCell>
@@ -19,20 +13,8 @@
         <mxCell id="AYfZdi-WlGziGCiwb_5d-6" value="성명" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="182" y="124.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AYfZdi-WlGziGCiwb_5d-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="AYfZdi-WlGziGCiwb_5d-21" target="5DNHloSlSrVb3Iocgoe0-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="445" y="307" as="sourcePoint" />
-            <mxPoint x="320" y="158" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AYfZdi-WlGziGCiwb_5d-15" value="&lt;u&gt;신용카드 번호&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="219" y="177" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AYfZdi-WlGziGCiwb_5d-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="AYfZdi-WlGziGCiwb_5d-15" target="5DNHloSlSrVb3Iocgoe0-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="445" y="307" as="sourcePoint" />
-            <mxPoint x="320" y="158" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="AYfZdi-WlGziGCiwb_5d-21" value="유효기간" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="319" y="177" width="80" height="30" as="geometry" />
@@ -162,11 +144,32 @@
         <mxCell id="AYfZdi-WlGziGCiwb_5d-25" value="출발시간 정보" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="797" y="110" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5DNHloSlSrVb3Iocgoe0-4" value="신용카드 정보" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269" y="124.5" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="5DNHloSlSrVb3Iocgoe0-5" value="존재" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="629" y="59" width="53" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="5DNHloSlSrVb3Iocgoe0-6" value="신용카드 정보" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="116.75" width="91" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5DNHloSlSrVb3Iocgoe0-4" value="신용카드 정보" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275.5" y="124.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5DNHloSlSrVb3Iocgoe0-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AYfZdi-WlGziGCiwb_5d-3" target="5DNHloSlSrVb3Iocgoe0-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="300" as="sourcePoint" />
+            <mxPoint x="600" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5DNHloSlSrVb3Iocgoe0-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AYfZdi-WlGziGCiwb_5d-15" target="5DNHloSlSrVb3Iocgoe0-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="300" as="sourcePoint" />
+            <mxPoint x="600" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5DNHloSlSrVb3Iocgoe0-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5DNHloSlSrVb3Iocgoe0-6" target="AYfZdi-WlGziGCiwb_5d-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="260" as="sourcePoint" />
+            <mxPoint x="600" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -4,20 +4,20 @@ use cafe;
 
 create table cafeMenus ( /* m : menu*/
 	category varchar(20) not null,
-    mNum int primary key,
+    mNum char(4) primary key,
     mName varchar(20) not null,
 	mPrice int not null
 );
 
 create table cafeOptions ( /* op : option */
-	opNum int not null primary key,
+	opNum char(4) not null primary key,
     opName varchar(10) not null,
     opPrice int not null,
     required char(1) not null
 );
 
 create table cart ( 
-	mNum int not null,
+	mNum char(4) not null,
     cOptions varchar(40) not null, /* choiced Options */
     cQuantity int not null, /* cart Quantity */
     cPrice int not null, /* cart Price */
@@ -33,7 +33,7 @@ create table membership (
 );
 
 create table orderHistory(
-	odNum char(11) not null,
+	odNum char(13) not null,
 	consumer char(11) not null,
     totalPrice int not null,
     odTime timestamp default current_timestamp not null,
@@ -42,8 +42,8 @@ create table orderHistory(
 );
 
 create table orderDetail ( /* od : order */
-	odNum char(11) not null,
-	mNum int not null,
+	odNum char(13) not null,
+	mNum char(4) not null,
     cOptions varchar(40) not null,
     odQuantity int not null,
     odPrice int not null,

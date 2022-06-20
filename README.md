@@ -185,7 +185,7 @@
 <del><h4>220612-2 물리적 스키마</h4></del>
 <img src="https://user-images.githubusercontent.com/69462861/173291335-51e33a26-9cb5-4cce-aa3b-91825fbc0cbd.png"></img>
 <h4>220620 물리적 스키마</h4>
-<img src="https://user-images.githubusercontent.com/69462861/174522407-af5c3624-79e2-490e-a6e8-3ef6a3c64be3.png"></img>
+<img src="https://user-images.githubusercontent.com/69462861/174523299-4a4e4401-5547-4059-ac05-6e722299e9f9.png"></img>
 <hr>
 <h4>테이블 정규화</h4>
 <img src="https://user-images.githubusercontent.com/69462861/173292905-4d0c4ed7-f178-469f-8ef0-f0401201584a.png"></img>

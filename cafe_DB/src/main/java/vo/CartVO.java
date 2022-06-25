@@ -10,6 +10,17 @@ public class CartVO {
 	primary key(mNum, cOptions)
 	*/
 	
+	 // 장바구니 표시용
+	private String mName;
+	
+	public String getmName() {
+		return mName;
+	}
+	public void setmName(String mName) {
+		this.mName = mName;
+	}
+	//
+	
 	public String getmNum() {
 		return mNum;
 	}

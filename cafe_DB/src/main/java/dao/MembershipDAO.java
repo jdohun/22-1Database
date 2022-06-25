@@ -47,13 +47,13 @@ public class MembershipDAO {
 		try {
 			pstmt.close();
 		} catch (SQLException e) {
-			System.out.println("UserDAO-close pstmt:" + e);
+			System.out.println("MembershipDAO-close pstmt:" + e);
 		}
 		
 		try {
 			con.close();
 		} catch (SQLException e) {
-			System.out.println("UserDAO-close con:" + e);
+			System.out.println("MembershipDAO-close con:" + e);
 		}
 	}
 	
@@ -62,12 +62,13 @@ public class MembershipDAO {
 		try {
 			rs.close();
 		} catch (SQLException e) {
-			System.out.println("UserDAO-close rs:" + e);
+			System.out.println("MembershipDAO-close rs:" + e);
 		}
 	}
 
-	public MembershipVO login(String phoneNumeber, String pwd) {
-		MembershipVO user = null;
+	// 로그인
+	public MembershipVO login(String phoneNumeber) {
+		MembershipVO Membership = null;
 		Connection con = connect();
 		String sql = "select * from Membership where phoneNumeber=?";
 		PreparedStatement pstmt = null;
@@ -79,9 +80,13 @@ public class MembershipDAO {
 			rs = pstmt.executeQuery();
 			
 			if(rs.next()) {
-				user = new MembershipVO();
+				Membership = new MembershipVO();
+				Membership.setPhoneNumber(rs.getString(1));
+				Membership.setMemberName(rs.getString(2));
+				Membership.setBirth(rs.getString(3));
+				Membership.setMileage(rs.getInt("Mileage"));
 				
-				user.setMileage(rs.getInt("Mileage"));
+				System.out.println("MembershipDAO-login: success");
 			}			
 		} catch (SQLException e) {
 			System.out.println("MembershipDAO-login: " + e);
@@ -97,6 +102,6 @@ public class MembershipDAO {
 				System.out.println("MembershipDAO-login close: " + e);
 			}
 		}
-		return user;
+		return Membership;
 	}
 }

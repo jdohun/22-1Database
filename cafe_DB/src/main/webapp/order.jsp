@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>주문하기</title>
 </head>
 <%	
 	ArrayList<CafeMenuVO> List = (ArrayList<CafeMenuVO>)request.getAttribute("List");
@@ -17,6 +17,7 @@
 <!-- header -->
 <header>
 	<button onclick="location.href='goHome.do'">홈</button>
+	<button class="cart" onclick="window.open('showCart.do', 'cart', 'width=430, height=600, location=no, status=no, scrollbars=yes');">장바구니</button>
 </header>
 <!--main-->
 <div id="Container">
@@ -36,7 +37,8 @@
 				<!-- <button value=<%=menu.getmName() %> onclick="window.open('detail.do?category=<%=menu.getCategory() %>')"> -->
 				<li>
 					<div class="menubox">
-						<button class="menus" onclick="window.open('menuInfo.do?=<%=menu.getmNum() %>')">
+						<button class="menus" onclick="window.open('menuInfo.do?mNum=<%=menu.getmNum() %>', 'menuInfo', 'width=430, height=600, location=no, status=no, scrollbars=yes');">
+							<p class="menuCategory"><%=menu.getCategory() %> </p>
 							<p class="menuInfo"><%=menu.getmName() %> </p>
 							<p class="price"><%=sPrice %></p>
 						</button>

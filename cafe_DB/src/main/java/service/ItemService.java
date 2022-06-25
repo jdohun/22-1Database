@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 import dao.CafeMenuDAO;
 import vo.CafeMenuVO;
+import vo.CafeOptionVO;
+import vo.CartVO;
 
 public class ItemService {
 	// 미리 생성한 DAO 객체를 받아옴
@@ -25,5 +27,30 @@ public class ItemService {
 		ArrayList<CafeMenuVO> List = dao.getCafeMenus(); 
 		return List;
 	}
+	
+	// 선택한 메뉴 가져오기
+	public CafeMenuVO showItem(String mNum) {
+		CafeMenuVO Item = dao.getCafeMenu(mNum);
+		return Item;
+	}
 
+	public ArrayList<CafeOptionVO> getOptions() {
+		ArrayList<CafeOptionVO> List = dao.getOptions();
+		return List;
+	}
+
+	public int insertCart(CartVO cart) {
+		int result = dao.insertCart(cart);
+		return result;
+	}
+
+	public ArrayList<CartVO> getCart() {
+		ArrayList<CartVO> List = dao.getCart();
+		return List;
+	}
+
+	public int order(String userPhoneNumber) {
+		int result = dao.order(userPhoneNumber);
+		return result;
+	}
 }

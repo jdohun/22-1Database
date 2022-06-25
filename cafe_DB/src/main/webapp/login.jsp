@@ -6,57 +6,23 @@
 <meta charset="UTF-8">
 <meta name="viewport" content=width-device-width", initial-scale="1">
 <link rel="stylesheet" href="css/bootstrap.min.css">
-<title>Insert title here</title>
+<title>로그인</title>
 </head>
 <body>
-	<nav class="navbar navbar-default">
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle collapsed"
-				 data-toggle="collopse" data-target="#bs-example-navbar-navbar-collapse-1"
-				 aria-expended="false">
-				 <span class="icon-bar"></span>
-				 <span class="icon-bar"></span>
-				 <span class="icon-bar"></span>
-			 </button>
-			 <a class="navbar-brand" href="main.jsp">JSP 게시판</a>
+<div id="Container">
+	<div class="contents">
+		<div class="titleArea">
+			<h3>LOGIN</h3>
 		</div>
-		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-			<ul class="nav navbar-nav">
-				<li><a href="main.jsp">메인</a></li>
-				<li><a href="main.jsp">게시판</a></li>
-			</ul>
-			<ul class="nav navbar-nav navbar-right">
-				<li class="dropdown">
-					<a href="#" class="dropdown-toggle"
-						data-toggle="dropdown" role="button" aria-haspopup="true"
-						aria-expanded="false">접속하기<span class="caret"></span></a>
-					<ul class="dropdown-menu">
-						<li class="active">
-							<a href="login.jsp">로그인</a>
-						</li>
-						<li class="active">
-							<a href="join.jsp">회원가입</a>
-						</li>					
-					</ul>
-				</li>
-			</ul>
-		</div>		
-	</nav>
-	<div class="container">
-		<div class="col-lg-4"></div>
-		<div class="col-lg-4">
-			<div class="jumbotron" style="padding-top: 20px:">
-				<form method="post" action="loginAction.jsp">
-					<h3 style="text-align: center;">로그인 화면</h3>
-					<div class="form-group">
-						<input type="number" class="form-control" placeholder="전화번호" name="userPhoneNumber" min="0" max="01099999999">
-					</div>
-					<input type="submit" class="btn btn-primary form-control" value="로그인">
-				</form>
+		<form class="login" method="post" action="login.do">
+			<div>
+				<ul>
+					<li><input type="text" name="userPhoneNumber" id="userPhoneNumber" placeholder="전화번호" autofocus></li>
+				</ul>
 			</div>
-		</div>
+			<input type="submit" id="login" value="LOGIN"><br>
+		</form>
 	</div>
-	<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
- 	<script src="js/bootstrap.js"></script>
+</div>
 </body>
 </html>

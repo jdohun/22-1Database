@@ -17,7 +17,7 @@ public class FrontController extends HttpServlet {
 	public void init(ServletConfig config) throws ServletException {
 		List = new HashMap<String, Controller>();
 		
-		//
+		// delete Cart
 		List.put("/goHome.do", new GoHomeController());
 		
 		// membership
@@ -25,6 +25,12 @@ public class FrontController extends HttpServlet {
 		
 		// show
 		List.put("/showMenu.do", new ShowMenuController());
+		List.put("/menuInfo.do", new MenuInfoController());
+		List.put("/showCart.do", new ShowCartController());
+		
+		// cart & order
+		List.put("/addToCart.do", new AddToCartController());
+		List.put("/order.do", new OrderController());
 	}
 	
 	@Override

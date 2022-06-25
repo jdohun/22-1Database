@@ -1,6 +1,7 @@
 package service;
 
 import dao.MembershipDAO;
+import vo.MembershipVO;
 
 public class MembershipService {
 	// 미리 생성한 DAO 객체를 받아옴
@@ -17,7 +18,8 @@ public class MembershipService {
 		return service;
 	}
 
-	public boolean login(String userPhoneNumber) {
-		return false;
+	public MembershipVO login(String userPhoneNumber) {
+		MembershipVO membership = service.login(userPhoneNumber);
+		return membership;
 	}
 }

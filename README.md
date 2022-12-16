@@ -48,7 +48,9 @@
 <br><h6>멤버십 회원관리</h6>
 -->
 <br>
+
 <hr>
+
 <h3>요구사항 명세서</h3>
 <details>
 <summary>요구사항 명세서 수정 이력</summary>
@@ -175,13 +177,19 @@
 20. 회원과 장바구니는 1:1 관계로 서로를 소유한다.<br>
 
 <hr>
-<h3>ERD</h3>
+
+<h3>릴레이션 스키마</h3>
+<img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>
+
+<hr>
+
+<h3>물리적 스키마</h3>
 <details>
 <summary>ERD 수정 이력</summary>
   <ul>
     <details>
     <summary>초기 ERD</summary>
-    <img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>
+    
     </details>
   </ul>
   <ul>

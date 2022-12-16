@@ -51,7 +51,10 @@
 <hr>
 <h3>요구사항 명세서</h3>
 <h4>수정 : <del><span>220513</span> </span>220522</span>  <span>220610</span>  <span>220612-1</span>  <span>220612-2</span></del></h4>
+<details>
+<summary>접기/펼치기</summary>
 
+<!-- summary 아래 한칸 공백 두어야함 -->
 <h4>최종 : 220620</h4>
 1. 커피 메뉴는 카테고리 번호, 메뉴 번호, 메뉴 이름, 메뉴 가격을 입력받는다.<br>
 2. 커피 메뉴는 메뉴 번호로 식별한다.<br>
@@ -73,10 +76,15 @@
 18. 초기회원의 적립금은 0으로 초기화한다.<br>
 19. 회원은 핸드폰 번호로 식별한다.(회원 로그인에 사용)<br>
 20. 회원과 장바구니는 1:1 관계로 서로를 소유한다.<br>
+## 접은 제목
+접은 내용
+</details>
+
+
 
 <hr>
 <h4><del>초기 ERD</del></h4>
-<img style="display:none" src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>
+<img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>
 <h4><del>220513 수정된 ERD</del></h4>
 <img src="https://user-images.githubusercontent.com/69462861/169690290-35926efd-b454-484f-bde6-996045f75d35.png"></img>
 <h4><del>220610 수정된 ERD</del></h4>

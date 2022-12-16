@@ -50,6 +50,8 @@
 <br>
 <hr>
 <h3>요구사항 명세서</h3>
+<details>
+<summary>수정 이력</summary>
 
 <details>
 <summary>220513, 220522</summary>
@@ -87,7 +89,7 @@
 <summary>220612-2</summary>
 
 </details>
-
+</details>
 
 <h4>최종 : 220620</h4>
 1. 커피 메뉴는 카테고리 번호, 메뉴 번호, 메뉴 이름, 메뉴 가격을 입력받는다.<br>

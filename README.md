@@ -178,18 +178,18 @@
 
 <hr>
 
-<h3>릴레이션 스키마</h3>
-<img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>
+<h3>ERD</h3>
+
 
 <hr>
 
-<h3>물리적 스키마</h3>
+<h3>ERD</h3>
 <details>
 <summary>ERD 수정 이력</summary>
   <ul>
     <details>
     <summary>초기 ERD</summary>
-    
+    <img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>
     </details>
   </ul>
   <ul>
@@ -226,58 +226,43 @@
 
 <h4>최종 : 220620 수정된 ERD</h4>
 <img src="https://user-images.githubusercontent.com/69462861/174522304-9b889eb4-5d54-46de-a4e3-0c4ddb027ecb.png"></img>
+
 <hr>
+
 <h3>릴레이션 스키마</h3>
+<h4>릴레이션 스키마</h4>
+<img src="https://user-images.githubusercontent.com/69462861/173305364-5c2b8bb5-1771-4110-801a-5d7f425fbbc0.png"></img>
+
+<hr>
+
+<h3>물리적 스키마</h3>
 <details>
-<summary>릴레이션 스키마 수정 이력</summary>
+<summary>물리적 스키마 수정 이력</summary>
   <ul>
     <details>
-    <summary>초기 ERD</summary>
-    <img src="https://user-images.githubusercontent.com/69462861/173305364-5c2b8bb5-1771-4110-801a-5d7f425fbbc0.png"></img>
+    <summary>초기 물리적 스키마</summary>
+    <img src="https://user-images.githubusercontent.com/69462861/169866825-d330c4c8-e6e1-4525-a20b-f3eff577bc75.png"></img>
     </details>
   </ul>
   <ul>
     <details>
-    <summary>220513 수정된 ERD</summary>
-    <img src="https://user-images.githubusercontent.com/69462861/169690290-35926efd-b454-484f-bde6-996045f75d35.png"></img>
+    <summary>220612-1 물리적 스키마</summary>
+    <img src="https://user-images.githubusercontent.com/69462861/173213832-a246a6bd-e9a5-4d78-ac69-eca4aa0e6e8f.png"></img>
     </details>
   </ul>
   <ul>
     <details>
-    <summary>220610 수정된 ERD</summary>
-    <img src="https://user-images.githubusercontent.com/69462861/173021686-16839b00-0f11-4fb4-a815-476b52d47c65.jpg"></img>
-    </details>
-  </ul>
-  <ul>
-    <details>
-    <summary>220611 수정된 ERD</summary>
-    <img src="https://user-images.githubusercontent.com/69462861/173185402-9aedd5bb-66b6-4ef5-a257-373e6a0df64f.png"></img>
-    </details>
-  </ul>
-  <ul>
-    <details>
-    <summary>220612-1 수정된 ERD</summary>
-    <img src="https://user-images.githubusercontent.com/69462861/173213772-74bb07b8-244c-42ad-ac28-89ef4a1785a4.png"></img>
-    </details>
-  </ul>
-  <ul>
-    <details>
-    <summary>220612-2 수정된 ERD</summary>
-    <img src="https://user-images.githubusercontent.com/69462861/173291410-20906ecd-e5cf-494b-b7b3-bbfae562cef4.png"></img>
+    <summary>220612-2 물리적 스키마</summary>
+    <img src="https://user-images.githubusercontent.com/69462861/173291335-51e33a26-9cb5-4cce-aa3b-91825fbc0cbd.png"></img>
     </details>
   </ul>
 </details>
-<h4><h4>
 
-<hr>
-<h4><del>초기 물리적 스키마</del></h4>
-<img src="https://user-images.githubusercontent.com/69462861/169866825-d330c4c8-e6e1-4525-a20b-f3eff577bc75.png"></img>
-<del><h4>220612-1 물리적 스키마</h4></del>
-<img src="https://user-images.githubusercontent.com/69462861/173213832-a246a6bd-e9a5-4d78-ac69-eca4aa0e6e8f.png"></img>
-<del><h4>220612-2 물리적 스키마</h4></del>
-<img src="https://user-images.githubusercontent.com/69462861/173291335-51e33a26-9cb5-4cce-aa3b-91825fbc0cbd.png"></img>
-<h4>220620 물리적 스키마</h4>
+<h4>최종 : 220620 물리적 스키마</h4>
 <img src="https://user-images.githubusercontent.com/69462861/174523299-4a4e4401-5547-4059-ac05-6e722299e9f9.png"></img>
+  
 <hr>
+
+<h3>테이블 정규화</h3>
 <h4>테이블 정규화</h4>
 <img src="https://user-images.githubusercontent.com/69462861/173292905-4d0c4ed7-f178-469f-8ef0-f0401201584a.png"></img>

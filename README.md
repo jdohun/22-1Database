@@ -53,8 +53,8 @@
 <details>
 <summary>수정 이력</summary>
 
-><details>
-<summary>220513, 220522</summary>
+<details>
+><summary>220513, 220522</summary>
 1. 카페 멤버십 회원으로 가입하기 위해서는 이름, 핸드폰 번호, 나이, 직업을 입력해야한다.<br>
 2. 멤버십 회원은 핸드폰 번호로 식별한다.<br>
 3. 멤버십 회원에게는 적립금이 부여된다.<br>

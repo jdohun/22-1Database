@@ -51,7 +51,7 @@
 <hr>
 <h3>요구사항 명세서</h3>
 <details>
-<summary>수정 이력</summary>
+<summary>요구사항 명세서 수정 이력</summary>
   <ul>
     <details>
       <summary>220513, 220522</summary>
@@ -175,8 +175,20 @@
 20. 회원과 장바구니는 1:1 관계로 서로를 소유한다.<br>
 
 <hr>
-<h4><del>초기 ERD</del></h4>
-<img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>
+<h3>ERD</h3>
+<details>
+<summary>ERD 수정 이력</summary>
+  <ul>
+    <details>
+    <summary>초기 ERD</summary>
+    <img src="https://user-images.githubusercontent.com/69462861/161521731-15e61450-b19a-4882-b201-e6cbbb56dec7.png"></img>
+    </details>
+  </ul>
+</details>
+
+  
+<h4><del></del></h4>
+
 <h4><del>220513 수정된 ERD</del></h4>
 <img src="https://user-images.githubusercontent.com/69462861/169690290-35926efd-b454-484f-bde6-996045f75d35.png"></img>
 <h4><del>220610 수정된 ERD</del></h4>
